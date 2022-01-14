@@ -4,32 +4,6 @@
 
 
 
-This repository contains codes used for the genetics and transcriptomic analysis performed for the following manuscript:
-
-`Genetic modifiers determine the symptom onset age among ALS/FTD patients carrying the C9orf72 repeat expansion`
-
------------------
-
-Code for each analysis are deposited as individual notebooks in the following folders. 
-
-01. Genetic risk score calculations
-
-
-02. Leave-one-out analysis & pathway analysis
-
-
-03. Individual variant age at onset regression
-
-
-04. Genome for repositioning analysis (GREP)
-
-
-05. Transcriptomic analysis & Conectivity score (Cmap)
-
-
-
-
-
 
 ## Introduction
 
