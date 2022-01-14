@@ -1,18 +1,11 @@
-# Genetic modifiers of age at onset in ALS/FTD patients carrying *C9orf72* repeat expasions
-
---------------
-
-
 
 
 ## Introduction
-
 A notable feature of *C9orf72*-related neurodegeneration is the wide range of onset observed among patients. Despite the efforts made since its discovery, little is known about the genetic modifiers of C9orf72 age at onset. This work investigates age at onset genetic modifiers of *C9orf72*-related neurodegeneration and nominate drugs that may delay age at onset in these patients.
 
 --------
 
 ## Overview
-
 Polygenic risk score analyses were used to identify genetic modifiers of *C9orf72*, using the following datasets:
 
 **Reference Dataset.** A published GWAS study involving 12,577 ALS cases and 23,475 controls (*Van Rheenen et al., 2016*)
@@ -32,7 +25,6 @@ https://www.ncbi.nlm.nih.gov/pubmed/29566793
 ## Available codes
 
 Code for each analysis are deposited as individual notebooks in the following folders. 
-
 01.   `Genetic risk score analysis`
 
 
