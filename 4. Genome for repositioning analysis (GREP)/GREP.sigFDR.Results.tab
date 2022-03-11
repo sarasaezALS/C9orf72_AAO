@@ -1,0 +1,307 @@
+GROUP	GroupName	OddsRatio	FisherExactP	TargetGene:DrugNames	Padj	Cat	transf
+A00-A09	Intestinal infectious diseases	1.97918834547347	0.215350781551833	CHRM1:atropine,clidinium;CHRM4:atropine,ispaghula,mebeverine;KCNQ2:diclofenac	0.994177735509086	ICD	0.666853547755422
+A15-A19	Tuberculosis	0.994350282485876	0.642674286284231	KCNQ2:diclofenac	1	ICD	0.192009076078817
+A20-A28	Certain zoonotic bacterial diseases	1.08922558922559	0.610210640936268	KCNQ2:diclofenac	1	ICD	0.214520223341252
+A30-A49	Other bacterial diseases	0.725378787878788	0.752608387118238	KCNQ2:diclofenac	1	ICD	0.123430946182413
+A50-A64	Infections with a predominantly sexual mode of transmission	0.960755091902633	0.654911172671843	KCNQ2:diclofenac	1	ICD	0.183817600518915
+A65-A69	Other spirochaetal diseases	1.08922558922559	0.610210640936268	KCNQ2:diclofenac	1	ICD	0.214520223341252
+A70-A74	Other diseases caused by chlamydiae	1.08922558922559	0.610210640936268	KCNQ2:diclofenac	1	ICD	0.214520223341252
+A75-A79	Rickettsioses	1.11034877072613	0.603382800539434	KCNQ2:diclofenac	1	ICD	0.219407073573154
+A80-A89	Viral infections of the central nervous system	1.11034877072613	0.603382800539434	KCNQ2:diclofenac	1	ICD	0.219407073573154
+A92-A99	Arthropod-borne viral fevers and viral haemorrhagic fevers	1.11034877072613	0.603382800539434	KCNQ2:diclofenac	1	ICD	0.219407073573154
+B00-B09	Viral infections characterized by skin and mucous membrane lesions	0.872003618272275	0.68923113575726	KCNQ2:diclofenac	1	ICD	0.16163511169102
+B15-B19	Viral hepatitis	2.28673835125448	0.163904089398917	CHRM1:tolterodine;CHRM4:tolterodine;KCNQ2:diclofenac	0.842390785050246	ICD	0.7854102106685
+B20-B24	Human immunodeficiency virus (HIV) disease	1.06081081081081	0.57379398478794	GABRA3:midazolam;KCNQ2:diclofenac	1	ICD	0.241244008873391
+B25-B34	Other viral diseases	1.09201388888889	0.558779623728083	GABRA3:midazolam;KCNQ2:diclofenac	1	ICD	0.252759439107249
+B35-B49	Mycoses	0.914299242424242	0.672507227078827	KCNQ2:diclofenac	1	ICD	0.1723030441678
+B50-B64	Protozoal diseases	0.65668044077135	0.785168657835957	KCNQ2:diclofenac	1	ICD	0.105037044783399
+B65-B83	Helminthiases	0.872003618272275	0.68923113575726	KCNQ2:diclofenac	1	ICD	0.16163511169102
+B85-B89	Pediculosis, acariasis and other infestations	0.885674931129477	0.683750771970321	KCNQ2:diclofenac	1	ICD	0.165102170329794
+B90-B94	Sequelae of infectious and parasitic diseases	1.11034877072613	0.603382800539434	KCNQ2:diclofenac	1	ICD	0.219407073573154
+B95-B98	Bacterial, viral and other infectious agents	1.03030303030303	0.630016678785813	KCNQ2:diclofenac	1	ICD	0.200647953072193
+B99-B99	Other infectious diseases	1.11034877072613	0.603382800539434	KCNQ2:diclofenac	1	ICD	0.219407073573154
+C00-C14	Malignant neoplasms of lip, oral cavity and pharynx	0.322020852284655	0.991556632968766	ABAT:valproic acid;ATP1A3:pbi-05204;CHRM4:l-651582	1	ICD	0.00368247592823962
+C15-C26	Malignant neoplasms of digestive organs	0.417391304347826	0.978130587496542	ABAT:valproic acid;ATP1A3:pbi-05204;CHRM4:l-651582;MMP17:marimastat	1	ICD	0.00960315989219497
+C30-C39	Malignant neoplasms of respiratory and intrathoracic organs	0.442424242424242	0.970201334814501	ABAT:valproic acid;ATP1A3:pbi-05204;CHRM4:l-651582;MMP17:marimastat	1	ICD	0.0131381322020461
+C40-C41	Malignant neoplasms of bone and articular cartilage	0.369565217391304	0.981742186169615	ABAT:valproic acid;ATP1A3:pbi-05204;CHRM4:l-651582	1	ICD	0.00800254665741522
+C43-C44	Melanoma and other malignant neoplasms of skin	0.431422505307856	0.973869677326617	ABAT:valproic acid;ATP1A3:pbi-05204;CHRM4:l-651582;KCNQ2:diclofenac	1	ICD	0.0114991562679265
+C45-C49	Malignant neoplasms of mesothelial and soft tissue	0.365102639296188	0.98287167076295	ABAT:valproic acid;ATP1A3:pbi-05204;CHRM4:l-651582	1	ICD	0.00750318238937502
+C50-C50	Malignant neoplasm of breast	0.347052280311457	0.986991217662858	ABAT:valproic acid;ATP1A3:pbi-05204;CHRM4:l-651582	1	ICD	0.00568671170475853
+C51-C58	Malignant neoplasms of female genital organs	0.476758409785933	0.956898693274927	ABAT:valproic acid;ATP1A3:pbi-05204;CACNA1I:mibefradil;CHRM4:l-651582	1	ICD	0.0191340384828974
+C60-C63	Malignant neoplasms of male genital organs	0.595366379310345	0.905997889065554	ABAT:valproic acid;ATP1A3:pbi-05204;CHRM1:tolterodine;CHRM4:l-651582,tolterodine;MAP1A:estramustine	1	ICD	0.0428728142086719
+C64-C68	Malignant neoplasms of urinary tract	0.480985373364126	0.95506871958205	ABAT:valproic acid;ATP1A3:pbi-05204;CHRM1:fesoterodine fumarate,smp-986,thvd-201;CHRM4:l-651582,trospium	1	ICD	0.0199653787182821
+C69-C72	Malignant neoplasms of eye, brain and other parts of central nervous system	0.359643102264928	0.984193189084864	ABAT:valproic acid,l-alanine;ATP1A3:pbi-05204;CHRM4:l-651582	1	ICD	0.00691964474097011
+C73-C75	Malignant neoplasms of thyroid and other endocrine glands	0.366210257600371	0.98259548059669	ABAT:valproic acid;ATP1A3:pbi-05204;CHRM4:l-651582	1	ICD	0.0076252377143587
+C76-C80	Malignant neoplasms of ill-defined, secondary and unspecified sites	0.387096774193548	0.976871221181902	ABAT:valproic acid;ATP1A3:pbi-05204;CHRM4:l-651582	1	ICD	0.0101626846091216
+C81-C96	Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue	0.353846153846154	0.991851234654902	ABAT:valproic acid;ASRGL1:calaspargase pegol,graspa;ATP1A3:pbi-05204;CHRM4:l-651582	1	ICD	0.00355346173032533
+C97-C97	Malignant neoplasms of independent (primary) multiple sites	0.551724137931034	0.873217820772122	ABAT:valproic acid;CHRM4:l-651582	1	ICD	0.058877409719631
+D00-D09	In situ neoplasms	0.765120967741935	0.751247020425415	ABAT:valproic acid;CHRM4:l-651582;GABRA3:midazolam	1	ICD	0.124217237472221
+D10-D36	Benign neoplasms	0.450617283950617	0.930278681577214	ABAT:valproic acid;CHRM4:l-651582	1	ICD	0.0313869312943952
+D37-D48	Neoplasms of uncertain or unknown behaviour	0.477272727272727	0.916264451722493	ABAT:valproic acid;CHRM4:l-651582	1	ICD	0.0379791624148415
+D50-D53	Nutritional anaemias	0	1		1	ICD	0
+D55-D59	Haemolytic anaemias	0	1		1	ICD	0
+D60-D64	Aplastic and other anaemias	0	1		1	ICD	0
+D65-D69	Coagulation defects, purpura and other haemorrhagic conditions	0	1		1	ICD	0
+D70-D77	Other diseases of blood and blood-forming organs	0	1		1	ICD	0
+D80-D89	Certain disorders involving the immune mechanism	0	1		1	ICD	0
+E00-E07	Disorders of thyroid gland	0	1		1	ICD	0
+E10-E14	Diabetes mellitus	0.230276907001045	0.984757277067562	HRH3:abt-652,azd-5213,mk-0249	1	ICD	0.00667080119806975
+E15-E16	Other disorders of glucose regulation and pancreatic internal secretion	0	1		1	ICD	0
+E20-E35	Disorders of other endocrine glands	0.438336856941508	0.896737130825358	GPR88:compound 2	1	ICD	0.0473348472158517
+E40-E46	Malnutrition	3.52584670231729	0.263226540075435	ABAT:l-alanine,pyridoxal phosphate,pyruvic acid	1	ICD	0.579670324681104
+E50-E64	Other nutritional deficiencies	0	1		1	ICD	0
+E65-E68	Obesity and other hyperalimentation	1.49609375	0.402856589440949	CHRM1:telenzepine;HRH3:a-331440,ath-90879,ciproxifan	1	ICD	0.394849528297857
+E70-E90	Metabolic disorders	0.398452611218569	0.916916583487279	HRH3:suvn-g1031	1	ICD	0.0376701724859395
+F00-F09	Organic, including symptomatic, mental disorders	5.4663651780667	0.00418634765078319	ABAT:k-828-ab;CHRM1:gsk1034702,itameline,milameline,scopolamine,sdz-210-086,sr-46559a,tazomeline,thiopilocarpine,ym-796,u-80816,biperiden;GABBR1:arbaclofen placarbil;HRH3:abt-239,ciproxifan,gsk-334429,gsk189254a,gsk239512,irdabisant,mk-3134,thioperamide,ucb-2892;PDE1B:ic-041	0.102798092313676	ICD	2.37816470897691
+F10-F19	Mental and behavioural disorders due to psychoactive substance use	3.26724137931034	0.0282920245441476	ABAT:cpp-115;CHRM1:scopolamine;GABRA3:acamprosate,lorazepam,midazolam,propofol,topiramate;GRIN1:acamprosate;HRH3:jnj-39220675	0.416835828283775	ICD	1.54833597382643
+F20-F29	Schizophrenia, schizotypal and delusional disorders	5.12946428571429	0.00251482044686076	CACNA1I:zonisamide;CHRM1:ac-260584,gsk1034702,n-desmethylclozapine,ngx-267,triflupromazine;CHRM4:org-23366;GABRA3:azd6280,topiramate;HRH3:abt-288,pitolisant;SCN4B:zonisamide	0.0793964741080327	ICD	2.59949301725668
+F30-F39	Mood [affective] disorders	5.2509375	0.000275441550149494	ABAT:valproic acid;CAMK2A:abio 09-01;CAMK2B:abio 09-01;CHRM1:doxepin;CHRM4:benactyzine,doxepin;GABBR1:progabide;GABRA3:chlordiazepoxide,topiramate,acamprosate,alprazolam,amobarbital,butalbital,clotiazepam,fludiazepam,halazepam,lorazepam,meprobamate,methylphenobarbital,ns-2710,oxazepam,pentobarbital,prazepam;GRIN1:acamprosate;HRH3:gt-2203	0.030436291291519	ICD	3.55997054614321
+F40-F48	Neurotic, stress-related and somatoform disorders	4.12715517241379	0.0122241910646391	ABAT:valproic acid;CAMK2A:abio 09-01;CAMK2B:abio 09-01;GABRA3:adinazolam,alprazolam,amobarbital,azd6280,bromazepam,butalbital,chlordiazepoxide,clobazam,clorazepate,clotiazepam,fludiazepam,halazepam,lorazepam,meprobamate,methylphenobarbital,ns-2710,oxazepam,pentobarbital,prazepam,clonazepam;HRH3:gt-2203	0.207811248098865	ICD	1.91277987067366
+F50-F59	Behavioural syndromes associated with physiological disturbances and physical factors	1.49609375	0.402856589440949	GABRA3:adipiplon,amobarbital,aprobarbital,barbital,butabarbital,butethal,clorazepate,estazolam,eszopiclone,ethchlorvynol,flunitrazepam,flurazepam,glutethimide,methyprylon,nitrazepam,pentobarbital,quazepam,temazepam,triazolam,zopiclone;HRH3:ucl-1390,apd-916,evt-501,mk-7288,sar-152954	1	ICD	0.394849528297857
+F60-F69	Disorders of adult personality and behaviour	0	1		1	ICD	0
+F70-F79	Mental retardation	0	1		1	ICD	0
+F80-F89	Disorders of psychological development	0	1		1	ICD	0
+F90-F98	Behavioural and emotional disorders with onset usually occurring in childhood and adolescence	3.30743243243243	0.137587046170596	CHRM4:pf-3409409;HRH3:a-317920,bavisant,cipralisant	0.812392222250327	ICD	0.861422453029686
+F99-F99	Unspecified mental disorder	0	1		1	ICD	0
+G00-G09	Inflammatory diseases of the central nervous system	2.83720930232558	0.172973161101122	HRH3:h3 receptor inverse agonists,pf-3900422,sch79687;SCN4B:brivaracetam	0.868797013712453	ICD	0.762021277737798
+G10-G14	Systemic atrophies primarily affecting the central nervous system	2.05084745762712	0.272463795689116	HRH3:h3 receptor inverse agonists,pf-3900422,sch79687;SCN4B:brivaracetam	1	ICD	0.56469119752323
+G20-G26	Extrapyramidal and movement disorders	4.86175284195086	0.00162350621546636	CHRM1:arecoline,benztropine,cycrimine,ethopropazine,metixene,nebracetam,pd-151832,procyclidine,trihexyphenidyl,xanomeline tartrate;CHRM4:metixene,procyclidine;GABBR1:arbaclofen placarbil;GLUL:nlx-p101;GRIN1:orphenadrine;HRH3:h3 receptor inverse agonists,pf-3900422,sch79687;SCN4B:brivaracetam	0.0760543136998047	ICD	2.7895460443724
+G30-G32	Other degenerative diseases of the nervous system	1.49856850715746	0.305034599211603	CHRM1:a-72055,alvameline,mcd-386,talsaclidine fumarate;CHRM4:rs 86;HRH3:abt-288,azd-5213,gsk239512,gt-2016,h3 receptor inverse agonists,pf-3900422,s-38093,sar-110894,sch79687;SCN4B:brivaracetam	1	ICD	0.515650897064843
+G35-G37	Demyelinating diseases of the central nervous system	3.12555803571429	0.0214794956983006	GABBR1:baclofen;GRIN1:eliprodil;HRH3:h3 receptor inverse agonists,pf-3900422,sch79687;KCNA2:dalfampridine;MBP:bht-3009,nbi-5788;SCN4B:brivaracetam	0.339069182094602	ICD	1.66797591934196
+G40-G47	Episodic and paroxysmal disorders	4.30769230769231	0.00172068583031232	ABAT:cpp -15,divalproex sodium,valproic acid,vigabatrin;CACNA1I:paramethadione,zonisamide,flunarizine;GABBR1:vigabatrin;GABRA3:adinazolam,clobazam,clonazepam,diazepam,lorazepam,metharbital,nitrazepam,pentobarbital,primidone,stiripentol,thiopental,topiramate,butalbital,adipiplon,amobarbital,aprobarbital,barbital,butabarbital,butethal,clorazepate,estazolam,eszopiclone,ethchlorvynol,flunitrazepam,flurazepam,glutethimide,methyprylon,quazepam,secobarbital,temazepam,triazolam,zopiclone;HRH3:h3 receptor inverse agonists,pf-3900422,sch79687,apd-916,evt-501,jnj-17216498,jnj-5207852,mk-7288,sar-152954;KCNQ2:diclofenac;SCN4B:brivaracetam,zonisamide;SLC12A5:clp-635	0.0760543136998047	ICD	2.76429841765446
+G50-G59	Nerve, nerve root and plexus disorders	3.21875	0.143363333338293	HRH3:h3 receptor inverse agonists,pf-3900422,sch79687;SCN4B:brivaracetam	0.812392222250327	ICD	0.843561909791344
+G60-G64	Polyneuropathies and other disorders of the peripheral nervous system	1.94480519480519	0.119042570770921	CHRM1:azd-6088,tolterodine;CHRM4:tolterodine;GABRA3:butalbital,clobazam,clonazepam,meprobamate,propofol,sevoflurane;HRH3:h3 receptor inverse agonists,pf-3900422,sch79687,bp-2.94;KCNQ2:diclofenac,ica-69673;SCN4B:brivaracetam	0.796902499077475	ICD	0.924297702937562
+G70-G73	Diseases of myoneural junction and muscle	3.13461538461538	0.149192415849474	HRH3:h3 receptor inverse agonists,pf-3900422,sch79687;SCN4B:brivaracetam	0.824288097568343	ICD	0.826253253528501
+G80-G83	Cerebral palsy and other paralytic syndromes	3.833984375	0.109617420009944	HRH3:h3 receptor inverse agonists,pf-3900422,sch79687;SCN4B:brivaracetam	0.796465449422521	ICD	0.960120423834977
+G90-G99	Other disorders of the nervous system	1.91257995735608	0.125440790199015	CHRM1:azd-6088,tolterodine;CHRM4:tolterodine,anisodine;GABRA3:butalbital,clobazam,clonazepam,meprobamate,propofol,sevoflurane;HRH3:bp-2.94,h3 receptor inverse agonists,pf-3900422,sch79687;KCNQ2:diclofenac,ica-69673;SCN4B:brivaracetam	0.796902499077475	ICD	0.901561218865703
+H00-H06	Disorders of eyelid, lacrimal system and orbit	0	1		1	ICD	0
+H10-H13	Disorders of conjunctiva	0	1		1	ICD	0
+H15-H22	Disorders of sclera, cornea, iris and ciliary body	3.21875	0.143363333338293	CHRM1:homatropine methylbromide;CHRM4:homatropine methylbromide	0.812392222250327	ICD	0.843561909791344
+H25-H28	Disorders of lens	0	1		1	ICD	0
+H30-H36	Disorders of choroid and retina	0	1		1	ICD	0
+H40-H42	Glaucoma	2.015625	0.278775056847518	CHRM1:ac-262271,aceclidine,carbachol,pilocarpine;CHRM4:aceclidine,pilocarpine	1	ICD	0.554746086951688
+H43-H45	Disorders of vitreous body and globe	0	1		1	ICD	0
+H46-H48	Disorders of optic nerve and visual pathways	0	1		1	ICD	0
+H49-H52	Disorders of ocular muscles, binocular movement, accommodation and refraction	0	1		1	ICD	0
+H53-H54	Visual disturbances and blindness	0	1		1	ICD	0
+H55-H59	Other disorders of eye and adnexa	3.95967741935484	0.10423116338878	CHRM1:tridihexethyl,cyclopentolate;CHRM4:tridihexethyl,cyclopentolate,tropicamide	0.796465449422521	ICD	0.982002414775946
+H60-H62	Diseases of external ear	0	1		1	ICD	0
+H65-H75	Diseases of middle ear and mastoid	0	1		1	ICD	0
+H80-H83	Diseases of inner ear	6.68686868686869	0.155802896820932	CACNA1I:cinnarizine	0.839815614571367	ICD	0.807424471813324
+H90-H95	Other disorders of ear	0	1		1	ICD	0
+I00-I02	Acute rheumatic fever	0	1		1	ICD	0
+I05-I09	Chronic rheumatic heart diseases	0	1		1	ICD	0
+I10-I15	Hypertensive diseases	1.42222222222222	0.336481803624805	ATP1A3:rostafuroxin;CACNA1I:manidipine;CHRM4:cryptenamine acetates;GABRA3:diazepam	1	ICD	0.473038416726819
+I20-I25	Ischaemic heart diseases	0.975806451612903	0.60451120814256	CHRM1:bqca;GRIN1:l-698532,nbqx;HRH3:fub-130	1	ICD	0.218595642546235
+I26-I28	Pulmonary heart disease and diseases of pulmonary circulation	0	1		1	ICD	0
+I30-I52	Other forms of heart disease	0.630208333333333	0.824258090548452	ATP1A3:cordil,digitoxin,digoxin,istaroxime;SLC12A5:bumetanide	1	ICD	0.0839367813236583
+I60-I69	Cerebrovascular diseases	1.28225806451613	0.433809976704986	DLG4:tat-nr2b9c;GRIN1:dizocilpine,l-701324;PDE1B:vinpocetine	1	ICD	0.362700464359401
+I70-I79	Diseases of arteries, arterioles and capillaries	0	1		1	ICD	0
+I80-I89	Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified	0	1		1	ICD	0
+I95-I99	Other and unspecified disorders of the circulatory system	0	1		1	ICD	0
+J00-J06	Acute upper respiratory infections	2.125	0.2598456440665	CHRM1:isopropamide iodide;HRH3:gsk1004723,gsk835726,hpp404	1	ICD	0.585284559094108
+J09-J18	Influenza and pneumonia	0	1		1	ICD	0
+J20-J22	Other acute lower respiratory infections	0	1		1	ICD	0
+J30-J39	Other diseases of upper respiratory tract	2.78478574867597	0.110011647216725	CHRM1:isopropamide iodide;GABRA3:lormetazepam;HRH3:gsk1004723,gsk835726,hpp404	0.796465449422521	ICD	0.958561332531093
+J40-J47	Chronic lower respiratory diseases	0.785714285714286	0.726252756595769	CHRM1:aclidinium,azd-2115,azd-8683,azd-9164,darotropium,darotropium + 642444,ep-101,incruse ellipta,pur0200,qax-028,rbx-343e48f0,rispenzepine,seebri,sun-101,td-4208,telenzepine,ds-ah-14;CHRM4:aclidinium,gsk233705,orm3,umeclidinium,methacholine,oxitropium bromide	1	ICD	0.138912206171927
+J60-J70	Lung diseases due to external agents	0	1		1	ICD	0
+J80-J84	Other respiratory diseases principally affecting the interstitium	0	1		1	ICD	0
+J85-J86	Suppurative and necrotic conditions of lower respiratory tract	0	1		1	ICD	0
+J90-J94	Other diseases of pleura	0	1		1	ICD	0
+J95-J99	Other diseases of the respiratory system	0	1		1	ICD	0
+K00-K14	Diseases of oral cavity, salivary glands and jaws	3.60477941176471	0.120608738911613	CHRM1:hyoscyamine,mepenzolate,apd-515;CHRM4:hyoscyamine,mepenzolate	0.796902499077475	ICD	0.918621223509365
+K20-K31	Diseases of oesophagus, stomach and duodenum	2.53515625	0.203523125628168	CHRM1:hyoscyamine,mepenzolate,anisotropine methylbromide,diphemanil methylsulfate,homatropine methylbromide,oxyphencyclimine,pirenzepine,propantheline;CHRM4:hyoscyamine,mepenzolate,cimetropium bromide,anisotropine methylbromide,homatropine methylbromide,oxyphencyclimine,methantheline	0.994177735509086	ICD	0.691386236256511
+K35-K38	Diseases of appendix	7.27205882352941	0.0390070684322941	CHRM1:hyoscyamine,mepenzolate;CHRM4:hyoscyamine,mepenzolate	0.478920117974277	ICD	1.40885668776867
+K40-K46	Hernia	7.27205882352941	0.0390070684322941	CHRM1:hyoscyamine,mepenzolate;CHRM4:hyoscyamine,mepenzolate	0.478920117974277	ICD	1.40885668776867
+K50-K52	Noninfective enteritis and colitis	1.40441176470588	0.432587685373395	CHRM1:declopramide,hyoscyamine,mepenzolate;CHRM4:hyoscyamine,mepenzolate	1	ICD	0.363925847935542
+K55-K64	Other diseases of intestines	1.85576923076923	0.310284861418368	CHRM1:hyoscyamine,mepenzolate,clidinium,dicyclomine,atropine;CHRM4:hyoscyamine,mepenzolate,ispaghula,mebeverine,methantheline,atropine	1	ICD	0.50823941282334
+K65-K67	Diseases of peritoneum	7.27205882352941	0.0390070684322941	CHRM1:hyoscyamine,mepenzolate;CHRM4:hyoscyamine,mepenzolate	0.478920117974277	ICD	1.40885668776867
+K70-K77	Diseases of liver	0.95952868852459	0.625801187221222	CHRM1:hyoscyamine,mepenzolate;CHRM4:hyoscyamine,mepenzolate	1	ICD	0.203563617279413
+K80-K87	Disorders of gallbladder, biliary tract and pancreas	3.5	0.126206278134442	CHRM1:hyoscyamine,mepenzolate;CHRM4:hyoscyamine,mepenzolate,methantheline	0.796902499077475	ICD	0.898919040564728
+K90-K93	Other diseases of the digestive system	5.875	0.0553644434117739	CHRM1:hyoscyamine,mepenzolate;CHRM4:hyoscyamine,mepenzolate	0.611777099700101	ICD	1.25676906176348
+L00-L08	Infections of the skin and subcutaneous tissue	0	1		1	ICD	0
+L10-L14	Bullous disorders	0	1		1	ICD	0
+L20-L30	Dermatitis and eczema	0.994350282485876	0.642674286284231	CHRM1:smt-d002	1	ICD	0.192009076078817
+L40-L45	Papulosquamous disorders	0	1		1	ICD	0
+L50-L54	Urticaria and erythema	0	1		1	ICD	0
+L55-L59	Radiation-related disorders of the skin and subcutaneous tissue	0	1		1	ICD	0
+L60-L75	Disorders of skin appendages	0	1		1	ICD	0
+L80-L99	Other disorders of the skin and subcutaneous tissue	0	1		1	ICD	0
+M00-M03	Infectious arthropathies	0.514332514332514	0.857286125560465	KCNQ2:diclofenac	1	ICD	0.0668742048995211
+M05-M14	Inflammatory polyarthropathies	0.930164722031572	0.634668819060592	CAMK2A:rimacalib;CAMK2B:rimacalib;KCNQ2:diclofenac	1	ICD	0.197452837817395
+M15-M19	Arthrosis	0.427685950413223	0.902187742353756	KCNQ2:diclofenac	1	ICD	0.0447030777750944
+M20-M25	Other joint disorders	0.519283746556474	0.854710609780312	KCNQ2:diclofenac	1	ICD	0.0681809049791492
+M30-M36	Systemic connective tissue disorders	1.8147556691153	0.251485834136658	CHRM1:cevimeline;GABRA3:acamprosate,chlordiazepoxide;GRIN1:acamprosate	1	ICD	0.599486473150991
+M40-M43	Deforming dorsopathies	0	1		1	ICD	0
+M45-M49	Spondylopathies	1.13228438228438	0.59643893607996	KCNQ2:diclofenac	1	ICD	0.224434013152107
+M50-M54	Other dorsopathies	0	1		1	ICD	0
+M60-M63	Disorders of muscles	1.85890151515152	0.430018079004571	GABRA3:thiocolchicoside	1	ICD	0.366513285241644
+M65-M68	Disorders of synovium and tendon	0	1		1	ICD	0
+M70-M79	Other soft tissue disorders	0	1		1	ICD	0
+M80-M85	Disorders of bone density and structure	0	1		1	ICD	0
+M86-M90	Other osteopathies	0	1		1	ICD	0
+M91-M94	Chondropathies	0	1		1	ICD	0
+M95-M99	Other disorders of the musculoskeletal system and connective tissue	0	1		1	ICD	0
+N00-N08	Glomerular diseases	0	1		1	ICD	0
+N10-N16	Renal tubulo-interstitial diseases	0	1		1	ICD	0
+N17-N19	Renal failure	0	1		1	ICD	0
+N20-N23	Urolithiasis	0	1		1	ICD	0
+N25-N29	Other disorders of kidney and ureter	0.495388669301713	0.867152174165163	GPR88:compound 2	1	ICD	0.0619046826840631
+N30-N39	Other diseases of urinary system	3.29032258064516	0.0769210236097733	CHRM1:fesoterodine fumarate,smp-986,thvd-201,tolterodine,(s)-oxybutynin,fp-1097,oxybutynin hydrochloride,terflavoxate;CHRM4:tolterodine,trospium;GABRA3:cinolazepam	0.716933720031066	ICD	1.11395494511585
+N40-N51	Diseases of male genital organs	3.833984375	0.109617420009944	CHRM1:tolterodine;CHRM4:tolterodine	0.796465449422521	ICD	0.960120423834977
+N60-N64	Disorders of breast	0	1		1	ICD	0
+N70-N77	Inflammatory diseases of female pelvic organs	0	1		1	ICD	0
+N80-N98	Noninflammatory disorders of female genital tract	1.2034632034632	0.574891937047356	GABRA3:chlordiazepoxide,meprobamate	1	ICD	0.240413782361847
+N99-N99	Other disorders of the genitourinary system	0	1		1	ICD	0
+O00-O08	Pregnancy with abortive outcome	0	1		1	ICD	0
+O10-O16	Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium	0	1		1	ICD	0
+O20-O29	Other maternal disorders predominantly related to pregnancy	0	1		1	ICD	0
+O30-O48	Maternal care related to the fetus and amniotic cavity and possible delivery problems	0	1		1	ICD	0
+O60-O75	Complications of labour and delivery	0	1		1	ICD	0
+O80-O84	Delivery	12.0606060606061	0.0965371482741663	CHRM1:metoclopramide	0.796465449422521	ICD	1.01530553446995
+O85-O92	Complications predominantly related to the puerperium	0	1		1	ICD	0
+O94-O99	Other obstetric conditions, not elsewhere classified	0	1		1	ICD	0
+P05-P08	Disorders related to length of gestation and fetal growth	0	1		1	ICD	0
+P10-P15	Birth trauma	0	1		1	ICD	0
+P20-P29	Respiratory and cardiovascular disorders specific to the perinatal period	0	1		1	ICD	0
+P35-P39	Infections specific to the perinatal period	0	1		1	ICD	0
+P50-P61	Haemorrhagic and haematological disorders of fetus and newborn	0	1		1	ICD	0
+P70-P74	Transitory endocrine and metabolic disorders specific to fetus and newborn	0	1		1	ICD	0
+P75-P78	Digestive system disorders of fetus and newborn	0	1		1	ICD	0
+P90-P96	Other disorders originating in the perinatal period	11.431884057971	0.000878986722354251	ABAT:divalproex sodium,vigabatrin;CACNA1I:paramethadione;GABBR1:vigabatrin;GABRA3:clonazepam	0.0647520218800965	ICD	3.05601768516722
+Q00-Q07	Congenital malformations of the nervous system	15.0833333333333	0.0811010995510256	CACNA1I:paramethadione	0.716933720031066	ICD	1.09097325767903
+Q10-Q18	Congenital malformations of eye, ear, face and neck	15.0833333333333	0.0811010995510256	CACNA1I:paramethadione	0.716933720031066	ICD	1.09097325767903
+Q20-Q28	Congenital malformations of the circulatory system	15.0833333333333	0.0811010995510256	CACNA1I:paramethadione	0.716933720031066	ICD	1.09097325767903
+Q30-Q34	Congenital malformations of the respiratory system	0	1		1	ICD	0
+Q35-Q37	Cleft lip and cleft palate	0	1		1	ICD	0
+Q38-Q45	Other congenital malformations of the digestive system	0	1		1	ICD	0
+Q50-Q56	Congenital malformations of genital organs	17.75	0.00911747245084668	CHRM1:atropine;CHRM4:atropine	0.16791345096976	ICD	2.04012554026681
+Q60-Q64	Congenital malformations of the urinary system	15.0833333333333	0.0811010995510256	CACNA1I:paramethadione	0.716933720031066	ICD	1.09097325767903
+Q65-Q79	Congenital malformations and deformations of the musculoskeletal system	7.52651515151515	0.141350378438594	CACNA1I:paramethadione	0.812392222250327	ICD	0.849703024432524
+Q80-Q89	Other congenital malformations	0	1		1	ICD	0
+Q90-Q99	Chromosomal abnormalities, not elsewhere classified	10.0454545454545	0.111721397882797	GABBR1:arbaclofen placarbil	0.796465449422521	ICD	0.951863638948592
+R00-R09	Symptoms and signs involving the circulatory and respiratory systems	2.97865853658537	0.160996085700216	CHRM1:homatropine methylbromide;CHRM4:flutropium bromide,homatropine methylbromide	0.842390785050246	ICD	0.793184682846796
+R10-R19	Symptoms and signs involving the digestive system and abdomen	2.43125	0.215930005902426	CHRM1:clidinium,benzquinamide,buclizine,diphenidol,metoclopramide,scopolamine;CHRM4:benzquinamide,diphenidol	0.994177735509086	ICD	0.665687003370371
+R20-R23	Symptoms and signs involving the skin and subcutaneous tissue	2.05084745762712	0.272463795689116	CHRM1:glycopyrrolate;GABRA3:aprobarbital,desflurane,enflurane,etomidate,halothane,heptabarbital,hexobarbital,isoflurane,methoxyflurane,propofol,sevoflurane,thiopental	1	ICD	0.56469119752323
+R25-R29	Symptoms and signs involving the nervous and musculoskeletal systems	33.1166666666667	2.96385281944074e-05	ABAT:vigabatrin;CHRM1:oxyphenonium;CHRM4:cimetropium bromide,trospium;GABBR1:vigabatrin	0.00655011473096403	ICD	4.52814336658063
+R30-R39	Symptoms and signs involving the urinary system	4.29105571847507	0.0422018086587956	CHRM1:(s)-oxybutynin,fp-1097,oxybutynin hydrochloride,terflavoxate,flavoxate,tolterodine;CHRM4:bethanechol,flavoxate,tolterodine;GABRA3:cinolazepam	0.490873669136517	ICD	1.37466893591742
+R40-R46	Symptoms and signs involving cognition, perception, emotional state and behaviour	6.86666666666667	0.0046909851094693	CACNA1I:cinnarizine;CHRM1:itameline,milameline,sdz-210-086,sr-46559a,tazomeline,thiopilocarpine,ym-796;HRH3:abt-239,gsk-334429,gsk189254a,irdabisant,thioperamide,ucb-2892;PDE1B:ic-041	0.103670770919272	ICD	2.32873594562576
+R50-R69	General symptoms and signs	3.32305560367227	0.00248947164030118	ABAT:divalproex sodium,vigabatrin;CACNA1I:paramethadione;CHRM1:atropine,bqca,clidinium,succinylcholine,tolterodine,propantheline,apd-515;CHRM4:atropine,tolterodine;GABBR1:vigabatrin;GABRA3:butalbital,clobazam,clonazepam,meprobamate,midazolam,propofol,sevoflurane,talbutal;GRIN1:ifenprodil,l-698532,nbqx,orphenadrine,ym-90k;HRH3:abt-652,bp-2.94,fub-130,ucl-1390;KCNQ2:diclofenac,ica-69673;SCN4B:brivaracetam;SLC12A5:bumetanide	0.0793964741080327	ICD	2.60389281677991
+R70-R79	Abnormal findings on examination of blood, without diagnosis	0	1		1	ICD	0
+R80-R82	Abnormal findings on examination of urine, without diagnosis	0	1		1	ICD	0
+S00-S09	Injuries to the head	0	1		1	ICD	0
+S10-S19	Injuries to the neck	0	1		1	ICD	0
+S20-S29	Injuries to the thorax	0	1		1	ICD	0
+S30-S39	Injuries to the abdomen, lower back, lumbar spine and pelvis	0	1		1	ICD	0
+S40-S49	Injuries to the shoulder and upper arm	0	1		1	ICD	0
+S50-S59	Injuries to the elbow and forearm	0	1		1	ICD	0
+S60-S69	Injuries to the wrist and hand	0	1		1	ICD	0
+S70-S79	Injuries to the hip and thigh	0	1		1	ICD	0
+S80-S89	Injuries to the knee and lower leg	0	1		1	ICD	0
+S90-S99	Injuries to the ankle and foot	0	1		1	ICD	0
+T00-T07	Injuries involving multiple body regions	0	1		1	ICD	0
+T08-T14	Injuries to unspecified part of trunk, limb or body region	0	1		1	ICD	0
+T15-T19	Effects of foreign body entering through natural orifice	0	1		1	ICD	0
+T20-T25	Burns and corrosions of external body surface, specified by site	0	1		1	ICD	0
+T26-T28	Burns and corrosions confined to eye and internal organs	0	1		1	ICD	0
+T29-T32	Burns and corrosions of multiple and unspecified body regions	0	1		1	ICD	0
+T33-T35	Frostbite	0	1		1	ICD	0
+T36-T50	Poisoning by drugs, medicaments and biological substances	11.2599620493359	0.00403552397456823	CHRM1:atropine;CHRM4:atropine;CYP46A1:tak-935	0.102798092313676	ICD	2.39410006825547
+T51-T65	Toxic effects of substances chiefly nonmedicinal as to source	9.09677419354839	0.00684395824186699	CHRM1:atropine;CHRM4:atropine;CYP46A1:tak-935	0.137501342859328	ICD	2.16469264895298
+T66-T78	Other and unspecified effects of external causes	2.00175315568022	0.210922045227131	CHRM1:isopropamide iodide;GABRA3:midazolam,propofol;HRH3:gsk1004723,gsk835726,hpp404	0.994177735509086	ICD	0.675878026139403
+T79-T79	Certain early complications of trauma	0	1		1	ICD	0
+T80-T88	Complications of surgical and medical care, not elsewhere classified	0	1		1	ICD	0
+T90-T98	Sequelae of injuries, of poisoning and of other consequences of external causes	0	1		1	ICD	0
+W85-W99	Exposure to electric current, radiation and extreme ambient air temperature and pressure	0	1		1	ICD	0
+Z00-Z13	Persons encountering health services for examination and investigation	0	1		1	ICD	0
+Z20-Z29	Persons with potential health hazards related to communicable diseases	0	1		1	ICD	0
+Z30-Z39	Persons encountering health services in circumstances related to reproduction	0	1		1	ICD	0
+Z40-Z54	Persons encountering health services for specific procedures and health care	0	1		1	ICD	0
+Z55-Z65	Persons with potential health hazards related to socioeconomic and psychosocial circumstances	0	1		1	ICD	0
+Z70-Z76	Persons encountering health services in other circumstances	0	1		1	ICD	0
+Z80-Z99	Persons with potential health hazards related to family and personal history and certain conditions influencing health status	0	1		1	ICD	0
+A01	STOMATOLOGICAL PREPARATIONS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+A02	DRUGS FOR ACID RELATED DISORDERS	6.01515151515152	0.170019192763901	CHRM1:pirenzepine	0.963442092328773	ATC	0.769502050145446
+A03	DRUGS FOR FUNCTIONAL GASTROINTESTINAL DISORDERS	3.60477941176471	0.120608738911613	CHRM1:oxyphencyclimine,glycopyrronium,oxyphenonium,propantheline,tridihexethyl,hexocyclium,mepenzolate,atropine,hyoscyamine,metoclopramide;CHRM4:oxyphencyclimine,mebeverine,methantheline,tridihexethyl,mepenzolate,atropine,hyoscyamine,cimetropium bromide	0.828147371763663	ATC	0.918621223509365
+A04	ANTIEMETICS AND ANTINAUSEANTS	12.0606060606061	0.0965371482741663	CHRM1:scopolamine	0.820565760330413	ATC	1.01530553446995
+A05	BILE AND LIVER THERAPY	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+A06	DRUGS FOR CONSTIPATION	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+A07	ANTIDIARRHEALS, INTESTINAL ANTIINFLAMMATORY/ANTIINFECTIVE AGENTS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+A08	ANTIOBESITY PREPARATIONS, EXCL. DIET PRODUCTS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+A09	DIGESTIVES, INCL. ENZYMES	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+A10	DRUGS USED IN DIABETES	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+A11	VITAMINS	20.1212121212121	0.0654092047166537	ABAT:pyridoxal phosphate	0.694972800114445	ATC	1.18436113124211
+A12	MINERAL SUPPLEMENTS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+A14	ANABOLIC AGENTS FOR SYSTEMIC USE	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+A16	OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+B01	ANTITHROMBOTIC AGENTS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+B02	ANTIHEMORRHAGICS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+B03	ANTIANEMIC PREPARATIONS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+B05	BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+B06	OTHER HEMATOLOGICAL AGENTS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+C01	CARDIAC THERAPY	1.62246621621622	0.366337614235737	ATP1A3:digitoxin,digoxin;PDE1B:trapidil	1	ATC	0.436118487242226
+C02	ANTIHYPERTENSIVES	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+C03	DIURETICS	2.71763085399449	0.323496931705885	SLC12A5:bumetanide	1	ATC	0.490129834159183
+C04	PERIPHERAL VASODILATORS	7.73046875	0.0352662986829534	CHRM1:vinburnine;GRIN1:ifenprodil	0.499605898008507	ATC	1.45264011861208
+C05	VASOPROTECTIVES	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+C07	BETA BLOCKING AGENTS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+C08	CALCIUM CHANNEL BLOCKERS	2.71763085399449	0.323496931705885	CACNA1I:manidipine,mibefradil	1	ATC	0.490129834159183
+C09	AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+C10	LIPID MODIFYING AGENTS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+D01	ANTIFUNGALS FOR DERMATOLOGICAL USE	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+D02	EMOLLIENTS AND PROTECTIVES	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+D03	PREPARATIONS FOR TREATMENT OF WOUNDS AND ULCERS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+D04	ANTIPRURITICS, INCL. ANTIHISTAMINES, ANESTHETICS, ETC.	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+D05	ANTIPSORIATICS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+D06	ANTIBIOTICS AND CHEMOTHERAPEUTICS FOR DERMATOLOGICAL USE	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+D07	CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+D08	ANTISEPTICS AND DISINFECTANTS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+D09	MEDICATED DRESSINGS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+D10	ANTI-ACNE PREPARATIONS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+D11	OTHER DERMATOLOGICAL PREPARATIONS	2.38787878787879	0.35733224708491	KCNQ2:diclofenac	1	ATC	0.44692778956556
+G01	GYNECOLOGICAL ANTIINFECTIVES AND ANTISEPTICS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+G02	OTHER GYNECOLOGICALS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+G03	SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+G04	UROLOGICALS	6.86458333333333	0.0428927955943134	CHRM1:flavoxate,oxybutynin,tolterodine;CHRM4:flavoxate,tolterodine,trospium	0.520841089359519	ATC	1.36761564712494
+H01	PITUITARY AND HYPOTHALAMIC HORMONES AND ANALOGUES	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+H02	CORTICOSTEROIDS FOR SYSTEMIC USE	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+H03	THYROID THERAPY	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+H05	CALCIUM HOMEOSTASIS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+J01	ANTIBACTERIALS FOR SYSTEMIC USE	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+J02	ANTIMYCOTICS FOR SYSTEMIC USE	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+J04	ANTIMYCOBACTERIALS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+J05	ANTIVIRALS FOR SYSTEMIC USE	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+L01	ANTINEOPLASTIC AGENTS	0.380952380952381	0.925514456119725	MAP1A:estramustine	1	ATC	0.0336167933735356
+L02	ENDOCRINE THERAPY	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+L03	IMMUNOSTIMULANTS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+L04	IMMUNOSUPPRESSANTS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+M01	ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS	2.84848484848485	0.311838997431966	KCNQ2:diclofenac	1	ATC	0.506069574488848
+M02	TOPICAL PRODUCTS FOR JOINT AND MUSCULAR PAIN	4.62004662004662	0.211287917416089	KCNQ2:diclofenac	1	ATC	0.675125337540939
+M03	MUSCLE RELAXANTS	5.26612903225806	0.026043931870197	GABBR1:baclofen;GABRA3:thiocolchicoside;GRIN1:orphenadrine	0.442746841793349	ATC	1.5842934494193
+M04	ANTIGOUT PREPARATIONS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+M05	DRUGS FOR TREATMENT OF BONE DISEASES	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+M09	OTHER DRUGS FOR DISORDERS OF THE MUSCULO-SKELETAL SYSTEM	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+N01	ANESTHETICS	1.34366391184573	0.536475333900726	GABRA3:halothane,enflurane,isoflurane,desflurane,sevoflurane,hexobarbital,thiopental,etomidate,propofol	1	ATC	0.270450241260132
+N02	ANALGESICS	1.31313131313131	0.544418800961082	GABRA3:methoxyflurane	1	ATC	0.264066885282327
+N03	ANTIEPILEPTICS	6.84729064039409	0.00171167072726643	ABAT:valproic acid,vigabatrin;CACNA1I:paramethadione,zonisamide;GABBR1:vigabatrin,progabide;GABRA3:methylphenobarbital,primidone,metharbital,clonazepam,topiramate,stiripentol;SCN4B:zonisamide,brivaracetam	0.0727460059088234	ATC	2.76657977650751
+N04	ANTI-PARKINSON DRUGS	9.09677419354839	0.00684395824186699	CHRM1:trihexyphenidyl,biperiden,metixene,procyclidine,benzatropine;CHRM4:metixene,procyclidine;GRIN1:orphenadrine	0.193912150186232	ATC	2.16469264895298
+N05	PSYCHOLEPTICS	3.3508064516129	0.0739005964401073	CHRM1:triflupromazine,scopolamine;CHRM4:promazine;GABRA3:diazepam,chlordiazepoxide,oxazepam,lorazepam,adinazolam,bromazepam,clobazam,prazepam,alprazolam,halazepam,fludiazepam,etizolam,clotiazepam,meprobamate,pentobarbital,amobarbital,barbital,aprobarbital,secobarbital,talbutal,heptabarbital,hexobarbital,thiopental,flurazepam,nitrazepam,flunitrazepam,estazolam,triazolam,lormetazepam,temazepam,midazolam,quazepam,cinolazepam,glutethimide,methyprylon,zopiclone,eszopiclone,ethchlorvynol	0.697950077489902	ATC	1.13135205646847
+N06	PSYCHOANALEPTICS	5.26612903225806	0.026043931870197	CHRM1:doxepin,dosulepin;CHRM4:doxepin,dosulepin;PDE1B:vinpocetine	0.442746841793349	ATC	1.5842934494193
+N07	OTHER NERVOUS SYSTEM DRUGS	8.00686813186813	0.000303425572969884	CACNA1I:cinnarizine,flunarizine;CHRM1:carbachol,pilocarpine,cevimeline;CHRM4:bethanechol,pilocarpine;GABRA3:acamprosate;GRIN1:acamprosate;HRH3:betahistine,pitolisant	0.0257911737024401	ATC	3.51794781929196
+P01	ANTIPROTOZOALS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+P02	ANTHELMINTICS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+P03	ECTOPARASITICIDES, INCL. SCABICIDES, INSECTICIDES AND REPELLENTS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+R01	NASAL PREPARATIONS	2.48863636363636	0.346240519369756	CHRM1:ipratropium bromide	1	ATC	0.460622109456072
+R02	THROAT PREPARATIONS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+R03	DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES	3.71590909090909	0.11507788236874	CHRM1:ipratropium bromide;CHRM4:oxitropium bromide	0.828147371763663	ATC	0.93900813847473
+R05	COUGH AND COLD PREPARATIONS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+R06	ANTIHISTAMINES FOR SYSTEMIC USE	8.60606060606061	0.12665783332856	CHRM1:buclizine	0.828147371763663	ATC	0.897367945501016
+R07	OTHER RESPIRATORY SYSTEM PRODUCTS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+S01	OPHTHALMOLOGICALS	2.37841191066998	0.151720931183425	CHRM1:pilocarpine,carbachol,aceclidine,atropine,scopolamine,cyclopentolate;CHRM4:pilocarpine,aceclidine,atropine,cyclopentolate,tropicamide;KCNQ2:diclofenac	0.921162796470795	ATC	0.818954500489534
+S02	OTOLOGICALS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+S03	OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+V03	ALL OTHER THERAPEUTIC PRODUCTS	1.31313131313131	0.544418800961082	GABRA3:flumazenil	1	ATC	0.264066885282327
+V04	DIAGNOSTIC AGENTS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+V06	GENERAL NUTRIENTS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+V08	CONTRAST MEDIA	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
+V10	THERAPEUTIC RADIOPHARMACEUTICALS	0	1	Code;Drug;TargetGene;XXX;large	1	ATC	0
