@@ -1,4 +1,4 @@
-
+ DOI: 10.5281/zenodo.13259646
 
 ## Introduction
 A notable feature of *C9orf72*-related neurodegeneration is the wide range of onset observed among patients. Despite the efforts made since its discovery, little is known about the genetic modifiers of C9orf72 age at onset. This work investigates age at onset genetic modifiers of *C9orf72*-related neurodegeneration and nominate drugs that may delay age at onset in these patients.
